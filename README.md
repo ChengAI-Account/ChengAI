@@ -80,4 +80,6 @@ if __name__ == "__main__":
 
    ChengAI is just getting started and is supported only by an individual.
    If you want to support me, please go here to donate 🙇‍♂️🙇‍♀️
- 
+
+
+ [腾讯云](https://cloud.tencent.com) 提供计算支持
