@@ -58,7 +58,16 @@ if __name__ == "__main__":
 | Latency per name | 50 ms | 15–30 ms |
 | Throughput | 20 names/s | 100–1000 names/s |
 
-  
+
+  We used this setup when training the latest ChengAI.
+
+  | Item | Number |
+  | ---  |  ---   |
+  | GPU  | NVIDIA V100 (VRAM 32G) |
+  | CPU | 10vGPU |
+  | RAM | 40 GB |
+  | Disk Size | 120 GB (HDD) |
+  | Computing Power | ~15 TFlops |
 
 
 
