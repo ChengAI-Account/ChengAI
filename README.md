@@ -47,6 +47,12 @@ if __name__ == "__main__":
 ```
 
 # About reasoning Very ChengAI Model
+
+    This model is further trained based on the base model "bert-base-multilingual-cased",
+    with a total of about 1.4 million pieces of data.
+
+    The model has about 170 million parameters and performs around 270 quadrillion floating-point operations in total.
+
   Inference ChengAI Recommended Configuration Table
 
   | Item | Minimum | Recommended |
@@ -69,5 +75,9 @@ if __name__ == "__main__":
   | Disk Size | 120 GB (HDD) |
   | Computing Power | ~15 TFlops |
 
+   Train Time :  **57 Minute**
 
 
+   ChengAI is just getting started and is supported only by an individual.
+   If you want to support me, please go here to donate 🙇‍♂️🙇‍♀️
+ 
